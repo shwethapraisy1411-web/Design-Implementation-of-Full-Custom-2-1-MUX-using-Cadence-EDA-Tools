@@ -4,6 +4,7 @@
 
 The aim is to design and simulate a full custom 2:1 multiplexer (MUX) using Cadence EDA tools, ensuring accurate logic operation through waveform analysis and verification.
 
+
 ## Tools Required
 
 ### Cadence EDA Suite
